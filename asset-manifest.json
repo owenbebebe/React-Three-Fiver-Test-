@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Three-Fiver-Test/static/css/main.de88850a.css",
+    "main.js": "/React-Three-Fiver-Test/static/js/main.ede6203a.js",
+    "static/js/787.1de4db0b.chunk.js": "/React-Three-Fiver-Test/static/js/787.1de4db0b.chunk.js",
+    "index.html": "/React-Three-Fiver-Test/index.html",
+    "main.de88850a.css.map": "/React-Three-Fiver-Test/static/css/main.de88850a.css.map",
+    "main.ede6203a.js.map": "/React-Three-Fiver-Test/static/js/main.ede6203a.js.map",
+    "787.1de4db0b.chunk.js.map": "/React-Three-Fiver-Test/static/js/787.1de4db0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de88850a.css",
+    "static/js/main.ede6203a.js"
+  ]
+}
